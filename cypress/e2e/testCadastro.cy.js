@@ -1,7 +1,7 @@
 describe("Testes página de cadastro", () => {
 
-  const url_page = 'http://127.0.0.1:5500/SA/cadastro.html'
-  const url_page_login = 'http://127.0.0.1:5500/SA/login.html'
+  const url_page = 'http://127.0.0.1:5500/cadastro.html'
+  const url_page_login = 'http://127.0.0.1:5500/login.html'
 
   beforeEach(() => {
     cy.visit(url_page);
