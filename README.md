@@ -56,9 +56,9 @@ npx cypress open
 
 Após abrir a interface do Cypress você deve selecionar o tipo de teste a ser realizado, clicar em continue na página seguinte e selecionar o navegador que deseja utilizar para realizar os testes.
 
-![Tipo de Teste](ATipoTeste.png)
+![Tipo de Teste](./imagens/TipoTeste.png)
 
-![Selecionar Navegador](Navegador.png)
+![Selecionar Navegador](./imagens/Navegador.png)
 
 ---
 
@@ -68,11 +68,11 @@ O Cypress permite testar componentes isolados, fluxos integrados e simular a exp
 
 Após a instalação, para executar os testes usando a interface gráfica do Cypress devemos criar nossa primeira Spec. Para fazer isso basta estar na aba Specs, buscar por new specs no canto superior direito e criar uma nova Spec. 
 
-![Aba Specs](AbaSpecs.png)
+![Aba Specs](./imagens/AbaSpecs.png)
 
 Selecione a Spec desejada e os testes irão acontecer de forma automática, no canto superior esquerdo é possível visualizar quais testes executaram corretamente e quais apresentaram erros, para uma visualização detalhada basta clicar em cada teste. 
 
-![Testes](Testes.png)
+![Testes](./imagens/Testes.png)
 
 
 
